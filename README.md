@@ -1,12 +1,17 @@
 # Simple-Portfolio-Template - React x TailwindCSS 🚀
 
-![Project Screenshot](screenshot.png)
-
 My Portfolio is a simple single-page portfolio website template built using React.js. It features sections for Home, About, Skills, Work, and Contact, complete with a header and footer. The website also includes images and React icons to enhance the visual appeal. This template can serve as a starting point for a basic portfolio website and can be easily extended and customized for further development.
+
+<img width="1720" alt="portfolioweb" src="https://github.com/aligunesv/Simple-Portfolio-Template/assets/82121296/0e62439a-0b09-48c9-aab3-16a790358905">
 
 ## 📱 Mobile View
 
-![Mobile View](mobile_screenshot.png)
+<img width="614" alt="portfoliowebmobile" src="https://github.com/aligunesv/Simple-Portfolio-Template/assets/82121296/59f3c31a-f6a3-479c-a3e6-e2505c2ba4e3">
+
+## 🎥 Short Video
+
+https://github.com/aligunesv/Simple-Portfolio-Template/assets/82121296/d6e0618a-3f1a-45fc-b15b-8c3362268349
+
 
 ## ✨ Features
 
