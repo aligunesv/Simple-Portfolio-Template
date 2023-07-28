@@ -28,13 +28,13 @@ To use My Portfolio template, follow these steps:
 1. Clone the project to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/my-portfolio.git
+   git clone https://github.com/aligunesv/Simple-Portfolio-Template.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd my-portfolio
+   cd Simple-Portfolio-Template
    ```
 
 3. Install the required dependencies:
